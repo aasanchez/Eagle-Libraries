@@ -20,3 +20,4 @@ Now in Eagle 7 format!
   * On Windows, `$HOME\Eagle\external_lbrs` changes to: `C:\Users\username\Eagle\external_lbrs`
 6. Find and open the **external_lbrs** folder. Unzip and drag **pinguinobase.lbr** into the new **external_lbrs** folder.
 7. Restart Eagle. The library should be now be usable.
+Al3x1s1408
